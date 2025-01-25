@@ -12,4 +12,3 @@
 
 **App home screen sample**
 ![Screenshot_1733975118](https://github.com/user-attachments/assets/52954539-73da-4ef3-aea3-3052f1ad0870)
-<img src="[https://github.com/favicon.ico](https://github.com/user-attachments/assets/52954539-73da-4ef3-aea3-3052f1ad0870)" width=60%>
