@@ -11,4 +11,5 @@
 3. In jsonserver dir: npm run tunnel (for ngrok)
 
 **App home screen sample**
-![Screenshot_1733975118](https://github.com/user-attachments/assets/52954539-73da-4ef3-aea3-3052f1ad0870)
+
+![shop_wise_home](https://github.com/user-attachments/assets/84aad3c3-ec2f-42c0-96b2-88997cdfc878)
